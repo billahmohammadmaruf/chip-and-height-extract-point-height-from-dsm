@@ -1,0 +1,1 @@
+# chip-and-height-extract-point-height-from-dsm
